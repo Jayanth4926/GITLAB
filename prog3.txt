@@ -1,1 +1,1 @@
-Cloning to git repo
+Cloning to git repository successfully!!
